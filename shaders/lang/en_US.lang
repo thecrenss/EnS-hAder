@@ -1,0 +1,27 @@
+profile.PERFORMANCE = Performance
+profile.BALANCED    = Balanced
+profile.HIGH        = High Quality
+profile.ULTRA       = Ultra
+
+option.FOG_DISTANCE     = Fog Distance (Chunks)
+option.PASTEL_STRENGTH  = Pastel Strength
+option.FOG_COLOR_PRESET = Fog Color
+option.BLOOM            = Bloom Effect
+option.BLOOM_STRENGTH   = Bloom Intensity
+option.SATURATION       = Saturation
+option.BRIGHTNESS       = Brightness
+option.SOFT_SHADOWS     = Soft Shadows
+option.SHADOW_BIAS      = Shadow Bias
+
+screen.GORSEL   = Visual Settings
+screen.GELISMIS = Advanced Settings
+
+value.FOG_COLOR_PRESET.0 = Pink Mist
+value.FOG_COLOR_PRESET.1 = Lavender
+value.FOG_COLOR_PRESET.2 = Peach
+value.FOG_COLOR_PRESET.3 = Mint
+
+value.PASTEL_STRENGTH.0 = Off
+value.PASTEL_STRENGTH.1 = Subtle
+value.PASTEL_STRENGTH.2 = Medium
+value.PASTEL_STRENGTH.3 = Strong
